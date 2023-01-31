@@ -2,7 +2,7 @@
 
 ## Online Expereince
 
-When playing the tetris game online, I was surprised how similar it was. The emulator was true to the original game, with the classic blocks and sound effects. The online emulator was well designed, with intuitive controls and a smooth playing experience.
+When playing the tetris game online, I was surprised how similar it was. The emulator was true to the original game, with the classic blocks and sound effects. The online emulator was well designed, with intuitive controls and a smooth playing experience. The online emulator did a fantastic job of replicating the classic gameplay and graphics of the original game. I was impressed by how true to the original the emulator was. Playing Tetris online was just as fun and addicting as I remembered. It was a nostalgic experience.
 
 ![image](https://user-images.githubusercontent.com/54965062/215694956-00ab5c35-c8e4-4ca3-babf-85407c97a147.png)
 
