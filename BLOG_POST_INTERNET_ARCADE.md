@@ -4,6 +4,8 @@
 
 When playing the tetris game online, I was surprised how similar it was. The emulator was true to the original game, with the classic blocks and sound effects. The online emulator was well designed, with intuitive controls and a smooth playing experience.
 
+![image](https://user-images.githubusercontent.com/54965062/215694956-00ab5c35-c8e4-4ca3-babf-85407c97a147.png)
+
 ## Compare to Arcade
 
 As a kid, I would spend a lot of time playing Tetris on my Game Boy, but playing the arcade edition was a whole different experience. The game was bigger, the graphics were brighter, and the sound was more enthralling. It was an encounter that I will never forget.
