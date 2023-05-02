@@ -4,7 +4,7 @@
 
 ## Jackbox
 
-The diverse selection of games, including Trivia Murder Party, Quiplash, and Fibbage, offers an engaging experience for students. Among these, Quiplash stands out as a personal favorite, requiring players to generate witty responses to prompts and vote on the most appealing answers.
+The diverse selection of games, including Trivia Murder Party, Quiplash, and Fibbage, offers an engaging experience. Among these, Quiplash stands out as a personal favorite, requiring players to generate witty responses to prompts and vote on the most appealing answers.
 
 A particularly intriguing aspect of Jackbox games is the capacity to incorporate an audience into the gameplay. This function enables additional players to participate, cast votes on favored answers, and even engage in specific games. During our session, we welcomed several friends as audience members, which introduced an additional layer of enthusiasm and unpredictability.
 
@@ -16,4 +16,4 @@ The inclusion of an audience also cultivated a heightened sense of camaraderie w
 
 ## What I learned
 
-In summary, our Jackbox game night proved to be an overwhelming success, delivering continuous amusement, entertainment, and bonding among fellow students. The games' distinct mechanics and the capability to include an audience further enhanced the enjoyment and engagement of the experience.
+In summary, our Jackbox game night proved to be an overwhelming success, delivering continuous amusement, entertainment, and bonding among everyone. The games' distinct mechanics and the capability to include an audience further enhanced the enjoyment and engagement of the experience.
